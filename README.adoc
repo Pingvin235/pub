@@ -1,0 +1,17 @@
+= Publications
+:toc:
+
+== link:https://docs.google.com/document/d/175ef0CJb5bW1U1tSAUTE8m6EDNOYB2hiOSvsvZFNqao/edit?usp=sharing[The Hell of Software Development Planning]
+Thinking about planning methodologies, my ideal vision is implemented in link:http://bgerp.org[BGERP] project.
+
+== link:https://docs.google.com/presentation/d/1MEIMT9SEnepZdLMVFv2Koev3TILRGn_cNgdT25eS-Zg/edit?usp=sharing[Using AsciiDoctor for Software Documentation]
+Beginning of link:http://pzdcdoc.org[PzdcDoc] project.
+
+== link:https://docs.google.com/document/d/15NptRsx1qrdiWEew23EFz6gbxD6S12VQpnBQ6X9NbiQ/edit?usp=sharing[Pragmatic boring GIT]
+The GIT workflow, found as optimal for myself.
+
+== link:https://docs.google.com/presentation/d/1PzylIaJPWZEBulFec1d37C0XPqg1v-jQPPG6t-mwC7Q/edit?usp=sharing[ConEmu + FAR + WSL]
+Developer console environment under Windows.
+
+== link:https://docs.google.com/document/d/1s7YRILYenqtXEGIgtf4PtVTSmEtp3iMX6IF2BSYqfkM/edit?usp=sharing[Just a little patch]
+Common thoughts about strangeness in our world.
